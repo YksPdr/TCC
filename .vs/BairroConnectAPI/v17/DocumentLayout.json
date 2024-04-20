@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\controllers\\loginsexemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:controllers\\loginsexemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\controllers\\municipeexemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:controllers\\municipeexemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\controllers\\orgeventosexemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:controllers\\orgeventosexemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\orgeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\orgeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\municipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\municipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\enuns\\tipoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\enuns\\tipoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\utils\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:utils\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\eventoparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\eventoparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\eventomunicipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\eventomunicipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\eventoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\eventoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\models\\eventocomentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:models\\eventocomentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|c:\\users\\cesar\\desktop\\nova pasta\\bairroconnectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB42A251-1E8F-442B-B88A-82DD314A5FAA}|BairroConnectAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Mark 18\\teste\\BairroConnectAPI\\script01_TBs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Evento.cs",
+              "RelativeToolTip": "Models\\Evento.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:35:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Controllers\\EventoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:33:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "script01_TBs.sql",
+              "DocumentMoniker": "F:\\Mark 18\\teste\\BairroConnectAPI\\script01_TBs.sql",
+              "ToolTip": "F:\\Mark 18\\teste\\BairroConnectAPI\\script01_TBs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-19T18:32:04.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:08:48.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginsExemploController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\LoginsExemploController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginsExemploController.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\LoginsExemploController.cs",
+              "RelativeToolTip": "Controllers\\LoginsExemploController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:50:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwvwMBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:20:04.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MunicipeExemploController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\MunicipeExemploController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MunicipeExemploController.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\MunicipeExemploController.cs",
+              "RelativeToolTip": "Controllers\\MunicipeExemploController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:51:07.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrgEventosExemploController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\OrgEventosExemploController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrgEventosExemploController.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Controllers\\OrgEventosExemploController.cs",
+              "RelativeToolTip": "Controllers\\OrgEventosExemploController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:03:55.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:29:44.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logins.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Logins.cs",
+              "RelativeDocumentMoniker": "Models\\Logins.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Logins.cs",
+              "RelativeToolTip": "Models\\Logins.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:18:38.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Municipe.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Municipe.cs",
+              "RelativeDocumentMoniker": "Models\\Municipe.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Municipe.cs",
+              "RelativeToolTip": "Models\\Municipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:31:48.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrgEventos.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\OrgEventos.cs",
+              "RelativeDocumentMoniker": "Models\\OrgEventos.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\OrgEventos.cs",
+              "RelativeToolTip": "Models\\OrgEventos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:31:47.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoConta.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Enuns\\TipoConta.cs",
+              "RelativeDocumentMoniker": "Models\\Enuns\\TipoConta.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Enuns\\TipoConta.cs",
+              "RelativeToolTip": "Models\\Enuns\\TipoConta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:47:01.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:06:29.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T14:08:24.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Equipe.cs",
+              "RelativeDocumentMoniker": "Models\\Equipe.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\Equipe.cs",
+              "RelativeToolTip": "Models\\Equipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:30:13.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Utils\\Criptografia.cs",
+              "RelativeDocumentMoniker": "Utils\\Criptografia.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Utils\\Criptografia.cs",
+              "RelativeToolTip": "Utils\\Criptografia.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:02:40.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventoParticipante.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoParticipante.cs",
+              "RelativeDocumentMoniker": "Models\\EventoParticipante.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoParticipante.cs",
+              "RelativeToolTip": "Models\\EventoParticipante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:31:38.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventoComentario.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoComentario.cs",
+              "RelativeDocumentMoniker": "Models\\EventoComentario.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoComentario.cs",
+              "RelativeToolTip": "Models\\EventoComentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:30:52.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventoEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoEndereco.cs",
+              "RelativeDocumentMoniker": "Models\\EventoEndereco.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoEndereco.cs",
+              "RelativeToolTip": "Models\\EventoEndereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:30:56.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventoMunicipe.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoMunicipe.cs",
+              "RelativeDocumentMoniker": "Models\\EventoMunicipe.cs",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Models\\EventoMunicipe.cs",
+              "RelativeToolTip": "Models\\EventoMunicipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:31:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cesar\\Desktop\\Nova pasta\\BairroConnectAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T22:13:42.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

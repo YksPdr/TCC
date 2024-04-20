@@ -1,0 +1,6 @@
+@BairroConnectAPI_HostAddress = http://localhost:5001
+
+GET {{BairroConnectAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
