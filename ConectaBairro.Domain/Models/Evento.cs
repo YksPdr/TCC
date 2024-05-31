@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,5 +20,10 @@ namespace ConectaBairro.Domain.Models
         public decimal ValorIngresso { get; set; }
         public DateTime HorarioInicio { get; set; }
         public DateTime HorarioFim { get; set; }
+
+        [NotMapped]
+        public Usuario Usuarios { get; set;}
+        [NotMapped]
+        public Categoria Categorias { get; set; }
     }
 }

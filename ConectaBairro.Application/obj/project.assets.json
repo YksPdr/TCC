@@ -2887,11 +2887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Application\\ConectaBairro.Application.csproj",
+      "projectUniqueName": "D:\\Code\\Conecta-bairro\\ConectaBairro.Application\\ConectaBairro.Application.csproj",
       "projectName": "ConectaBairro.Application",
-      "projectPath": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Application\\ConectaBairro.Application.csproj",
+      "projectPath": "D:\\Code\\Conecta-bairro\\ConectaBairro.Application\\ConectaBairro.Application.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Application\\obj\\",
+      "outputPath": "D:\\Code\\Conecta-bairro\\ConectaBairro.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2913,11 +2913,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Domain\\ConectaBairro.Domain.csproj": {
-              "projectPath": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Domain\\ConectaBairro.Domain.csproj"
+            "D:\\Code\\Conecta-bairro\\ConectaBairro.Domain\\ConectaBairro.Domain.csproj": {
+              "projectPath": "D:\\Code\\Conecta-bairro\\ConectaBairro.Domain\\ConectaBairro.Domain.csproj"
             },
-            "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Infrastructure\\ConectaBairro.Infrastructure.csproj": {
-              "projectPath": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Infrastructure\\ConectaBairro.Infrastructure.csproj"
+            "D:\\Code\\Conecta-bairro\\ConectaBairro.Infrastructure\\ConectaBairro.Infrastructure.csproj": {
+              "projectPath": "D:\\Code\\Conecta-bairro\\ConectaBairro.Infrastructure\\ConectaBairro.Infrastructure.csproj"
             }
           }
         }

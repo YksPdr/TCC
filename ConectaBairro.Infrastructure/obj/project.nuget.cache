@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ZJUkVocxwKuU+53uPNertbFgGkNVtFskghu++fhpbAigxgWIy3/TDBFzuxq53QguMulrS8PaOYFEdRMVuOZ9Q==",
+  "dgSpecHash": "y7hpvDDN/j6etpA7op7M9oDjgAjBp2FS1zmne6zoygDQ2tEwywHy88tsAEKqvC+gKMEnljDw+iPav5swEDU3Ag==",
   "success": true,
-  "projectFilePath": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Infrastructure\\ConectaBairro.Infrastructure.csproj",
+  "projectFilePath": "D:\\Code\\Conecta-bairro\\ConectaBairro.Infrastructure\\ConectaBairro.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
