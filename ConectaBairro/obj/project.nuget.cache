@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pD9ZF+Hi+NyWQdVVQ69o+ohFTfuBntgLOFsMMCsSwzXhLBx+qA7x8fhdDIfKFc8+SySXSFMfW9VZTendE7wbvw==",
+  "dgSpecHash": "8mw/cIyqNifOgqwXiKDV9+p9di14aYmUs0xtLBYHEsgYiiZcvvmErNPk1gW37sTnykrwucY1z8DL/+uJo1QVqQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro\\ConectaBairro.csproj",
+  "projectFilePath": "D:\\Code\\Conecta-bairro\\ConectaBairro\\ConectaBairro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

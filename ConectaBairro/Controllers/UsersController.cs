@@ -1,5 +1,6 @@
 ﻿using ConectaBairro.Application.Dtos;
 using ConectaBairro.Application.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ConectaBairro.Controllers
@@ -13,7 +14,7 @@ namespace ConectaBairro.Controllers
         {
             _usersService = usersService;
         }
-
+        [AllowAnonymous]
         [HttpPost("create")]
         public async Task<IActionResult> CreateUserAsync(UsuarioDto user)
         {

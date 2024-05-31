@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConectaBairro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8dc9ba7a118bb87a9705ab1221b6b82ebecaa12")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConectaBairro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConectaBairro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
