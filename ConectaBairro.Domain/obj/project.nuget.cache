@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DfAKmAHFjS12OWyynE8dpp1F/dbw5/h+H/nXT1O7hYbhr8bOrF6HTEC+Q0GrosdDvDVGexzHWYyHc4+uslHMRQ==",
+  "dgSpecHash": "7eie0DPKs+QtfvwArP8AfqQ7NvSrMeo7YqdOTx6SrYnVJp7q4wLzx4eLyMbsDrYTZPcp5WdKqdFryAxobLoYfw==",
   "success": true,
-  "projectFilePath": "D:\\Code\\ConectaBairro\\ConectaBairro\\ConectaBairro.Domain\\ConectaBairro.Domain.csproj",
+  "projectFilePath": "D:\\Code\\Conecta-bairro\\ConectaBairro.Domain\\ConectaBairro.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
