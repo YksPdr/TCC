@@ -289,3 +289,4 @@ D:\Code\Conecta-bairro\ConectaBairro\obj\Debug\net8.0\scopedcss\bundle\ConectaBa
 D:\Code\Conecta-bairro\ConectaBairro\obj\Debug\net8.0\ConectaBairro.csproj.CopyComplete
 D:\Code\Conecta-bairro\ConectaBairro\obj\Debug\net8.0\ConectaBairro.genruntimeconfig.cache
 D:\Code\Conecta-bairro\ConectaBairro\obj\Debug\net8.0\ref\ConectaBairro.dll
+D:\Code\Conecta-bairro\ConectaBairro\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

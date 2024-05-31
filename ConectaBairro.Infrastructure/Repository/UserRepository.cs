@@ -18,5 +18,10 @@ namespace ConectaBairro.Infrastructure.Repository
             await _context.SaveChangesAsync();
             return user;
         }
+
+        public async Task<Usuario> GetUserByEmailAsync(string email)
+        {
+            return await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == email);
+        }
     }
 }

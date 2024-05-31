@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConectaBairro.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22c6f5077457217c824f840e09250795dd6173ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8be31947c3f54b6fefa30533e0bc51fa8d4be4f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConectaBairro.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConectaBairro.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
