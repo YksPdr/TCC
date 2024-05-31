@@ -1,0 +1,17 @@
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.AssemblyInfoInputs.cache
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.AssemblyInfo.cs
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\bin\Debug\net8.0\ConectaBairro.Infrastructure.deps.json
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\bin\Debug\net8.0\ConectaBairro.Infrastructure.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\bin\Debug\net8.0\ConectaBairro.Infrastructure.pdb
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\bin\Debug\net8.0\ConectaBairro.Domain.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\bin\Debug\net8.0\ConectaBairro.Domain.pdb
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.csproj.AssemblyReference.cache
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.csproj.CopyComplete
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\refint\ConectaBairro.Infrastructure.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.pdb
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ref\ConectaBairro.Infrastructure.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\bin\Debug\net8.0\ConectaBairro.Infrastructure.runtimeconfig.json
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Infrastructure\obj\Debug\net8.0\ConectaBairro.Infrastructure.genruntimeconfig.cache

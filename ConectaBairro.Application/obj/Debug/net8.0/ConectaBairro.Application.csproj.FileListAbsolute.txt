@@ -1,0 +1,17 @@
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.csproj.AssemblyReference.cache
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.AssemblyInfoInputs.cache
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.AssemblyInfo.cs
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.csproj.CoreCompileInputs.cache
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\bin\Debug\net8.0\ConectaBairro.Application.deps.json
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\bin\Debug\net8.0\ConectaBairro.Application.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\bin\Debug\net8.0\ConectaBairro.Application.pdb
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\bin\Debug\net8.0\ConectaBairro.Domain.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\bin\Debug\net8.0\ConectaBairro.Infrastructure.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\bin\Debug\net8.0\ConectaBairro.Domain.pdb
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\bin\Debug\net8.0\ConectaBairro.Infrastructure.pdb
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.csproj.CopyComplete
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\refint\ConectaBairro.Application.dll
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ConectaBairro.Application.pdb
+D:\Code\ConectaBairro\ConectaBairro\ConectaBairro.Application\obj\Debug\net8.0\ref\ConectaBairro.Application.dll
