@@ -1,7 +1,9 @@
-﻿namespace ConectaBairro.Application.Services
+﻿using ConectaBairro.Domain.Models;
+
+namespace ConectaBairro.Application.Services
 {
     public interface ITokenService
     {
-        string GenerateJwtToken(string email);
+        string GenerateJwtToken(Usuario usuario);
     }
 }

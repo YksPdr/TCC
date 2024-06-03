@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ConectaBairro.Domain.Models
 {
@@ -18,8 +13,8 @@ namespace ConectaBairro.Domain.Models
         public DateTime DataFim { get; set; }
         public int LimiteParticipantes { get; set; }
         public decimal ValorIngresso { get; set; }
-        public DateTime HorarioInicio { get; set; }
-        public DateTime HorarioFim { get; set; }
+        public DateTime? HorarioInicio { get; set; } = null;
+        public DateTime? HorarioFim { get; set; } = null;
 
         [NotMapped]
         public Usuario Usuarios { get; set;}

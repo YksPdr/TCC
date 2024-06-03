@@ -10,6 +10,10 @@ namespace ConectaBairro.Application.Mappings
         {
             CreateMap<Usuario, UsuarioDto>();
             CreateMap<UsuarioDto, Usuario>();
+            CreateMap<EventDto, Evento>();
+            CreateMap<Evento, EventDto>();
+            CreateMap<Evento, CreateEventDto>();
+            CreateMap<CreateEventDto, Evento>();
         }
     }
 }

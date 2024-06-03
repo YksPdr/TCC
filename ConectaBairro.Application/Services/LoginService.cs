@@ -22,7 +22,7 @@ namespace ConectaBairro.Application.Services
                 throw new Exception("... nhehehe sai daqui seu sapequinha");
             }
 
-            var token = _tokenService.GenerateJwtToken(loginDto.Email);
+            var token = _tokenService.GenerateJwtToken(user);
             var sessionCode = Guid.NewGuid().ToString();
 
             return new { Token = token, SessionCode = sessionCode };

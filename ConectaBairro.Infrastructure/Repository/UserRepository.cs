@@ -21,7 +21,7 @@ namespace ConectaBairro.Infrastructure.Repository
 
         public async Task<Usuario> GetUserByEmailAsync(string email)
         {
-            return await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == email);
+            return await _context.Usuarios.Include(u => u.TipoDeConta).FirstOrDefaultAsync(u => u.Email == email);
         }
     }
 }
