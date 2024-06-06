@@ -17,15 +17,14 @@ namespace ConectaBairro.Application.Services
         public async Task<object> Authenticate(LoginDto loginDto)
         {
             var user = await _userRepository.GetUserByEmailAsync(loginDto.Email);
-            if(user == null || !_hashService.VerifyPassword(loginDto.Password, user.PasswordHash, user.PasswordSalt))
+            if (user == null || !_hashService.VerifyPassword(loginDto.Password, user.PasswordHash, user.PasswordSalt))
             {
-                throw new Exception("... nhehehe sai daqui seu sapequinha");
+                throw new Exception("Email ou senha inválidos. Por favor, tente novamente");
             }
 
             var token = _tokenService.GenerateJwtToken(user);
-            var sessionCode = Guid.NewGuid().ToString();
 
-            return new { Token = token, SessionCode = sessionCode };
+            return new { Token = token, User = user };
         }
 
     }

@@ -7,7 +7,8 @@ namespace ConectaBairro.Infrastructure.EntityConfiguration
     {
         public static void ConfigureCategory(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Categoria>(entity => {
+            modelBuilder.Entity<Categoria>(entity =>
+            {
                 entity.ToTable("categoria");
                 entity.HasKey(u => u.Id);
                 entity.Property(u => u.Nome)

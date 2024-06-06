@@ -8,7 +8,7 @@
         DateTime DataFim,
         int LimiteParticipantes,
         decimal ValorIngresso,
-        DateTime? HorarioInicio = null,
-        DateTime? HorarioFim = null)
+        DateTime? HorarioInicio,
+        DateTime? HorarioFim)
     { }
 }

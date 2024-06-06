@@ -1,5 +1,5 @@
-﻿using ConectaBairro.Domain.Models.Enums;
-using ConectaBairro.Domain.Models;
+﻿using ConectaBairro.Domain.Models;
+using ConectaBairro.Domain.Models.Enums;
 using Microsoft.EntityFrameworkCore;
 
 namespace ConectaBairro.Infrastructure.SeedConfiguration

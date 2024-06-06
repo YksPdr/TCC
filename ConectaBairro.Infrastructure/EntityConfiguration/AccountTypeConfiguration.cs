@@ -7,7 +7,8 @@ namespace ConectaBairro.Infrastructure.EntityConfiguration
     {
         public static void ConfigureAccount(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Conta>(entity => {
+            modelBuilder.Entity<Conta>(entity =>
+            {
                 entity.ToTable("tipo_conta");
                 entity.HasKey(c => c.Id);
                 entity.Property(c => c.Id)

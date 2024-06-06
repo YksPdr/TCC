@@ -11,7 +11,7 @@ namespace ConectaBairro.Infrastructure.SeedConfiguration
             modelBuilder.Entity<Conta>()
                 .HasData(
                     new Conta(1, TipoConta.Organizador),
-                    new Conta (2, TipoConta.Municipe)
+                    new Conta(2, TipoConta.Municipe)
                 );
         }
     }

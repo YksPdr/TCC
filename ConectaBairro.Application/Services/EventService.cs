@@ -23,25 +23,43 @@ namespace ConectaBairro.Application.Services
             return await _eventRepository.GetEventsAsync();
         }
 
-        public async Task<Evento> CreateEventAsync(CreateEventDto evento, int userId)
+        public async Task<EventDto> CreateEventAsync(CreateEventDto evento, int userId)
         {
             if (evento.DataInicio <= DateTime.Now.AddDays(7))
             {
                 throw new Exception("A data do evento deve ser pelo menos 7 dias maior que a data atual");
             }
+            if (evento.DataFim < evento.DataInicio)
+            {
+                throw new Exception("A data de fim do evento não pode ser menor que a data de início");
+            }
+            if (evento.DataFim == evento.DataInicio)
+            {
+                throw new Exception("O evento não pode começar e terminar no mesmo momento");
+            }
 
+            if (evento.ValorIngresso < 0)
+            {
+                throw new Exception("Valor do ingresso não pode ser menor que R$ 0. Caso queira deixar o evento gratuíto, deixe o ingresso com valor 0");
+            }
+
+            if (evento.LimiteParticipantes < 0)
+            {
+                throw new Exception("Limite de participantes não pode ser negativo");
+            }
             Evento mappedEvent = _mapper.Map<Evento>(evento);
             mappedEvent.UserId = userId;
 
-            //bool eventoExists = await _eventRepository.FindEventOnDate(mappedEvent);
-            //if (eventoExists)
-            //{
-            //    throw new Exception("Já existe um evento com o mesmo nome na mesma data.");
-            //}
-            var a = await _eventRepository.CreateEventAsync(mappedEvent);
-            //await _uow.Commit();
+            bool eventoExists = await _eventRepository.FindEventOnDate(mappedEvent);
+            if (eventoExists)
+            {
+                throw new Exception("Já existe um evento com o mesmo nome na mesma data.");
+            }
+            await _eventRepository.CreateEventAsync(mappedEvent);
+            await _uow.Commit();
 
-            return a;
+            return _mapper.Map<EventDto>(mappedEvent);
         }
+
     }
 }

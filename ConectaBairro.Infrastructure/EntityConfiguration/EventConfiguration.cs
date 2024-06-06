@@ -26,15 +26,15 @@ namespace ConectaBairro.Infrastructure.EntityConfiguration
                 entity.Property(u => u.ValorIngresso)
                     .HasPrecision(8, 2)
                     .IsRequired();
-                entity.Property(u => u.HorarioInicio);
-                entity.Property(u => u.HorarioFim);
+                entity.Property(u => u.HorarioInicio).IsRequired(false);
+                entity.Property(u => u.HorarioFim).IsRequired(false);
 
 
                 entity.HasOne(u => u.Categorias)
                       .WithMany()
                       .HasForeignKey(u => u.CategoriaId)
                       .OnDelete(DeleteBehavior.Cascade);
-                
+
                 entity.HasOne(u => u.Usuarios)
                     .WithMany()
                     .HasForeignKey(u => u.UserId)

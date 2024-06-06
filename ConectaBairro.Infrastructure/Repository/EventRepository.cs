@@ -2,7 +2,7 @@
 using ConectaBairro.Domain.Models;
 using ConectaBairro.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
+using System.Diagnostics;
 
 namespace ConectaBairro.Infrastructure.Repository
 {
@@ -25,11 +25,10 @@ namespace ConectaBairro.Infrastructure.Repository
                 .AnyAsync(ev => ev.Titulo == evento.Titulo && ev.DataInicio.Date == evento.DataInicio.Date);
         }
 
-        public async Task<Evento> CreateEventAsync(Evento evento)
+        public async Task CreateEventAsync(Evento evento)
         {
-            var a = await _context.Eventos.AddAsync(evento);
-            await _context.SaveChangesAsync();
-            return a.Entity;
+            Debug.WriteLine(evento);
+            await _context.Eventos.AddAsync(evento);
         }
     }
 }

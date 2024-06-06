@@ -17,7 +17,7 @@ namespace ConectaBairro.Domain.Models
         public DateTime? HorarioFim { get; set; } = null;
 
         [NotMapped]
-        public Usuario Usuarios { get; set;}
+        public Usuario Usuarios { get; set; }
         [NotMapped]
         public Categoria Categorias { get; set; }
     }

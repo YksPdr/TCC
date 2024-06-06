@@ -11,6 +11,6 @@ namespace ConectaBairro.Application.Dtos
         public DateOnly DataNascimento { get; set; }
         public int TipoContaId { get; set; }
         public byte[]? Foto { get; set; } = null;
-        public string Password {  get; set; } = String.Empty;
+        public string Password { get; set; } = String.Empty;
     }
 }

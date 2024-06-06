@@ -3,10 +3,8 @@ using ConectaBairro.Application.Services;
 using ConectaBairro.Domain.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 using System.Security.Claims;
-
-
-using Microsoft.AspNetCore.Identity;
 namespace ConectaBairro.Controllers
 {
     [Route("api/[controller]s")]
@@ -21,7 +19,7 @@ namespace ConectaBairro.Controllers
         }
 
         [HttpGet]
-        [Authorize(Policy = "Organizador")]
+        [AllowAnonymous]
         public async Task<ActionResult<List<Evento>>> GetEventos()
         {
             var eventos = await _eventService.GetEventsAsync();
@@ -30,12 +28,14 @@ namespace ConectaBairro.Controllers
 
         [HttpPost]
         [Authorize(Policy = "Organizador")]
-        public async Task<ActionResult<Evento>> CreateEventosAsync([FromBody] CreateEventDto evento)
+        public async Task<ActionResult<Evento>> CreateEventosAsync(CreateEventDto evento)
         {
             try
             {
+                Debug.WriteLine(evento);
                 string userId = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier).Value;
-                var novoEvento = await _eventService.CreateEventAsync(evento, Convert.ToInt32(userId));
+                int userIdFromCast = Convert.ToInt32(userId);
+                var novoEvento = await _eventService.CreateEventAsync(evento, userIdFromCast);
 
                 return Ok(novoEvento);
             }

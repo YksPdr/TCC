@@ -9,7 +9,7 @@ namespace ConectaBairro.Controllers
     public sealed class LoginController : ControllerBase
     {
         private readonly ILoginService _loginService;
-        
+
         public LoginController(ILoginService loginService)
         {
             _loginService = loginService;

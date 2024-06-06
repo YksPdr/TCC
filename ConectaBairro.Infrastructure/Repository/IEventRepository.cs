@@ -6,6 +6,6 @@ namespace ConectaBairro.Infrastructure.Repository
     {
         public Task<List<Evento>> GetEventsAsync();
         public Task<bool> FindEventOnDate(Evento evento);
-        public Task<Evento> CreateEventAsync(Evento evento);
+        public Task CreateEventAsync(Evento evento);
     }
 }
