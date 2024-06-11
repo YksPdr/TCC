@@ -1,0 +1,6 @@
+@ConectaBairro_HostAddress = http://localhost:5216
+
+GET {{ConectaBairro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
